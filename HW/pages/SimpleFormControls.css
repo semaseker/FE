@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    
+}
+
+fieldset {
+    width: 20%;
+    margin-left: 20px;
+    border: 2px solid #000;
+}
+
+h2, .comments{
+    margin-left: 20px;
+}
+
