@@ -1,0 +1,45 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrapper {
+    width: 70%;
+    margin-inline: auto;
+    background-image: url(../images/crow-1002849_640.jpg);
+    background-size: cover;
+
+    border: 15px solid;
+    border-top-color: #b0893b;
+    border-left-color: #b0893b;
+    border-bottom-color: #5c471e;
+    border-right-color: #5c471e;
+}
+
+p {
+    width: 50%;
+    color: #FFF;
+    letter-spacing: 2px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+    width: 50%;
+}
+
+ h1 {
+    color: #f4c76c;
+    text-align: center;
+    width: 50%;
+}
+
+.txt p:nth-child(13) {
+    color:#f4c76c;
+    width: 100%;
+}
+
+span {
+    border-bottom: 4px solid #c15009;
+}
